@@ -2,7 +2,7 @@
 Extreme learning machine classifier for python
 
 ## installing ezelm
-create folder ezelm in you project folder
+create folder ezelm in your project folder
 
     from ezelm import ezelm
     classifier = ezelm.EzELM()
