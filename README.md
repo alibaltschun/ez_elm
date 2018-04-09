@@ -1,6 +1,7 @@
 # ez_elm
 Extreme learning machine classifier for python
 
+## installing ezelm
 create folder ezelm in you project folder
 
 from ezelm import ezelm
