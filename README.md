@@ -4,6 +4,7 @@ Extreme learning machine classifier for python
 
 ## installing ezelm
 create folder ezelm in your project folder
+
 clone this repo to that folder
 
     from ezelm import ezelm
